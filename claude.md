@@ -2,7 +2,7 @@
 This is my AI agent workspace. I use it for research, software development, and productivity workflows.
 
 # About me
-I'm a software engineer with 11+ years of experience who wants to gain more knowlegd and handsone on the new technological advancement which is happening in the world of AI. I'm proficient in Java only, Consider me as a novice in AI fields. Provide me answers in Hinglish if required any explaination. I want to learn all the flows for each AI IDE such as claude Code and cursor etc.
+I'm a software engineer with 11+ years of experience who wants to gain more knowlegd and handsone on the new technological advancement which is happening in the world of AI.
 
 # Rules
 - Ask a clarifying question before starting a complex task
